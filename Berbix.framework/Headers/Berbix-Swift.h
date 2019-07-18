@@ -198,13 +198,6 @@ SWIFT_CLASS("_TtC6Berbix26BerbixConfigurationBuilder")
 @end
 
 
-SWIFT_CLASS("_TtC6Berbix9BerbixSDK")
-@interface BerbixSDK : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
-@end
-
-
 SWIFT_CLASS("_TtC6Berbix19BerbixSessionHandle")
 @interface BerbixSessionHandle : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
