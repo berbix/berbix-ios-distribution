@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "BerbixSDK.h"
 
 FOUNDATION_EXPORT double BerbixVersionNumber;
 FOUNDATION_EXPORT const unsigned char BerbixVersionString[];
