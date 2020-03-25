@@ -1,0 +1,55 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.1.3 effective-4.1.50 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4 -enforce-exclusivity=checked -O -module-name Berbix
+import AVFoundation
+@_exported import Berbix
+import Foundation
+import Swift
+import UIKit
+import Vision
+public enum BerbixError : Swift.Error {
+  case invalidState(Swift.String)
+  case cameraAccessError
+  case userExitError
+  case apiError(Swift.Error)
+}
+@objc public class BerbixConfiguration : ObjectiveC.NSObject {
+  @objc deinit
+}
+@objc public class BerbixConfigurationBuilder : ObjectiveC.NSObject {
+  public func withClientToken(_ clientToken: Swift.String) -> Berbix.BerbixConfigurationBuilder
+  public func withBaseURL(_ baseURL: Swift.String) -> Berbix.BerbixConfigurationBuilder
+  public func withEnvironment(_ environment: Berbix.BerbixEnvironment) -> Berbix.BerbixConfigurationBuilder
+  public func build() -> Berbix.BerbixConfiguration
+  @objc override dynamic public init()
+  @objc deinit
+}
+public enum BerbixEnvironment {
+  case development
+  case sandbox
+  case staging
+  case production
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: Berbix.BerbixEnvironment, b: Berbix.BerbixEnvironment) -> Swift.Bool
+}
+public protocol BerbixFlowDelegate {
+  func completed()
+  func failed(error: Berbix.BerbixError)
+}
+public class BerbixSessionHandle {
+  @objc deinit
+}
+public class BerbixSDK : Berbix.BerbixFlowDelegate {
+  public init()
+  public func startFlow(_ vc: UIKit.UIViewController, delegate: Berbix.BerbixFlowDelegate, config: Berbix.BerbixConfiguration)
+  public func createSession(delegate: Berbix.BerbixFlowDelegate, config: Berbix.BerbixConfiguration, ready: (() -> Swift.Void)?) -> Berbix.BerbixSessionHandle
+  public func display(_ vc: UIKit.UIViewController, handle: Berbix.BerbixSessionHandle)
+  public func completed()
+  public func failed(error: Berbix.BerbixError)
+  @objc deinit
+}
+extension Berbix.BerbixEnvironment : Swift.Equatable {}
+extension Berbix.BerbixEnvironment : Swift.Hashable {}
