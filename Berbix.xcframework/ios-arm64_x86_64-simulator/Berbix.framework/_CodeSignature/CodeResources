@@ -6,11 +6,11 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		6jTgk9urw4o4nK5J/61gUxm1Zmc=
+		hnX3hhes0KX2ZqZHry0cUUJfdlE=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
-		1bCLWRVpGMMnJgmLoh45Z+krQuA=
+		1lnNB4Ant1ZougxTup03tjo31F0=
 		</data>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		s6Ls/+olU773gn+Axz/UhdDz3uQ=
+		QZamxek3Fm4CwHsCaiC/sqgSlpc=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		lYmrCYv63oUMhalhcYjWXh6E15c=
+		JiVw1JIcnwFUJQr0YzON2Gas130=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		gGLQg4K+hEmOl1PQy1e0z1b/XJ4=
+		UlN4RIF3tGpQdEJPgz8ydaI5/XU=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -108,7 +108,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A9mQL3j7hRvv/+PSUrO5udYyzJY=
+		1+DqmCEiW/oIEMtjuCgnzLg/TYQ=
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -169,14 +169,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ESICBsTzesvbvWKT6QaIKN+9wG9rc7gWdV15QkzA0tI=
+			3M9lMVxJXxfRU1WeM8SUG0VF51+PnnwFxPL0DWhtF8k=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iluk0jav6dzDQSwivMICxiQ0RSyA82W2EeEWVyPsN/g=
+			sU5JsFiKfdWMeB6ui/hdeiMjaGt+/skuym+cGAzYGsM=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YIUvjhqnkeL2ojWujs1q6PmPTtPMxwIlAzHedLZ5kr8=
+			2pdqlP/YrdmEjymnNjsmCj0xQpNvOY4xHruA1Q2NEyM=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqykihnyXoR65ve7Sb9XlketRgfO88eRL5ADrTqPrGY=
+			+25Brl+EiUf+FCLzqqfoSTf/XoGmVZcN4p1Ba/RIB/E=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kQVrqjV6roPSTf2gUj7+P8GipAjBeCBOmAHkuDJe0fY=
+			1sA+t1nE94buuNlYWmlO1fzHZMkiM3di0czUqj3bgCI=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
