@@ -6,7 +6,7 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		bAuToZbW4ZBcqCHoGdZ3XeqPdoQ=
+		1TS1rpyHGjx1C8IqU8UptgI5LSY=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		80YNkN1eVWpXvoFvIcxwZqcX2Eg=
+		w78b2hEvJDVbP8X/FRLqVy02MwM=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		2fMWLIffa2ZnGdwP8BY2oJLn4pY=
+		44sGYLFyhfDoOLd78fBnA6foF/I=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		tjQ91WLps8nyHa04Q0YILYoCDb8=
+		aHTUpvFUf26N9SGrBntdgTRV1LI=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -169,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuVZqzdyxIxLGAuGLLb58EfUEr8DrgoWkfLNo5zeHgs=
+			mSebZDXu5dtQwuzkSTOWakuIZ9Ut/s9AbRu4GVWEeFw=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YsTcJlg2MVjPnIJtTcDOJnal0iSckeBtraufpShVa8A=
+			t1frfz8qBtgAEnOy+x9VimFXyqGZKn/AUkBJ84eOiHk=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sZXnhm8Ba6vYD/Zrr0Jka3XZqLLYftyzMEdvk/SHAaE=
+			CBd6oHMzD6aRZju3n2MtfRV7e/mm1kOBJIag2OsA980=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66yXCaB8MSJSW3ud/W55W63UwzQGtfKfccTuwkp1P4A=
+			9TaO4EHa0UiGxHaMl2MHsXUCIWZu146f8efzTZKNH4g=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
