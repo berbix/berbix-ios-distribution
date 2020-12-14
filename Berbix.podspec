@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Berbix'
-  s.version          = '0.0.17'
+  s.version          = '1.0.9'
   s.summary          = 'Berbix iOS SDK for rendering the Berbix Verify flow'
 
   s.description      = <<-DESC
@@ -19,15 +19,13 @@ to get started.
   s.homepage         = 'https://berbix.com'
   s.license          = { :type => 'Copyright', :text => 'Copyright 2019 Berbix Inc.' }
   s.author           = { 'Eric Levine' => 'eric@berbix.com' }
-  s.source           = { :git => 'git@github.com:berbix/berbix-ios-distribution.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/berbix/berbix-ios-distribution.git', :tag => s.version.to_s }
 
   s.platform = :ios, "11.0"
   s.ios.deployment_target = '11.0'
 
-  s.public_header_files = "Berbix.framework/Headers/*.h"
-  s.source_files = "Berbix.framework/Headers/*.h"
-  s.vendored_frameworks = "Berbix.framework"
+  s.public_header_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
+  s.source_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
+  s.vendored_frameworks = "Berbix.xcframework"
   s.swift_version = "4.2"  
-  
-  s.dependency 'Alamofire', '~> 4.8'
 end
