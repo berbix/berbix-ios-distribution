@@ -6,7 +6,7 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		YzmsMWpuF3lRcoWp4GhXsc2iM+Q=
+		EJ2DBixKz+4+ROAayxooo6FEAgA=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		dyeG+HuiLUWHawr6+XaGGM5wjn4=
+		46rp2Nragomx/zBp6c99/2J8Uqw=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		k0gKzD4elB6jJQDIdwCsMwUbCuA=
+		GAexXb9T/n+eWRB0Lld4E3Vrb9U=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		hd2M0gqiY4vg0wQ9pX18yo3KIds=
+		PUQoouO2WfiXNmJ2MXnsqjB4LRs=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			23OwvRv86TYVRFTVKarPaiwscAM=
+			2jEab3tUfGe3m0LEhZhxV61fVhk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -169,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Su+Bx9xErrNOtwrb8FLH99T5XCEA+eXnsYXZCGKrZD4=
+			BO8PB8NEuQE1C6XibGz4Fy19S41Mr28u3xtY5Eot8iw=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FSCyOJkZHDlor/o5YETqBtbKCMvSr0L4GouDprHZSZk=
+			R941WErjdycY5/hI/vD+voxZszGWH6ecUWCxEqiIKVE=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+3GMZe4+VSR0rDERhqh9IpWpUZLlDyV1vnPdspEUXY=
+			XYxPQRaJWDypcw2xJy4G+6EUjKc/TmyVcTIFvjl0ji0=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwyGqLZX4/C18Y2iVtEYocRLugRVCauQuzR6EZFZBP0=
+			XlFvPhdzG90GCVyepVfVYhA2yr5WExERyxiS+pyT5Ic=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
@@ -248,7 +248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBV6NNVUc2NfntttOf59Zt14kDmHxrb0N8qh+TEEmnQ=
+			uRc/3bpLy19nvOn7ko9Mc+VVa0sK6tqvnrL+4t2n0ck=
 			</data>
 			<key>optional</key>
 			<true/>
