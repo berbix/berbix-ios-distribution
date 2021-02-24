@@ -6,11 +6,11 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		l38RAv0skIBrvD5gBhThaRA+b1I=
+		BpLq6wIF1B+jtbRFEw+qNj6AkTk=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
-		JaN983Te2J1VdqHYVkF2uL2WMdk=
+		5+pIO/8Nhf7KPLX2dM4792N6dP0=
 		</data>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		QIXBLTbYasWkShzG0blw09IzXh0=
+		8PBwzj4bkNg9zJH9CQtcUqVaPQI=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		DVU92kdXihvcquBXc2PKgN5/Fxg=
+		lGFK90msZLA55RoNdJ/3oJWECCc=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		S1pASrxCBEeVwnI+b+7Xzn2IVxg=
+		RtLObuEmSgAOSeYmRm9fcEWjLQ0=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -108,7 +108,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+eUyvWwkxbVyg00oBmo8QoNeWTg=
+		PfUYqW3Pv244ddbT6vXutRYjZA0=
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -120,7 +120,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Yxr/l1DGQ31SDdHFpQZN9zs1TY8=
+		6cihoU4uZjcltlTEyANBAzIM8Dk=
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -132,7 +132,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Yxr/l1DGQ31SDdHFpQZN9zs1TY8=
+		6cihoU4uZjcltlTEyANBAzIM8Dk=
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -144,7 +144,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LGuV9CQh4Mxend5S+Krw4PpYf9A=
+		zJqF17E9OsBNt4/rxEGVw3ugtKc=
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -156,7 +156,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		LGuV9CQh4Mxend5S+Krw4PpYf9A=
+		zJqF17E9OsBNt4/rxEGVw3ugtKc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -169,14 +169,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			To7ephqa9ptqhwRqeWOZOl+IVv/s1fAz2i6g3TMhTVc=
+			UWpV+h7B+qdesHAyw7TDLekzxMADFRQnICRYx1oPqro=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UmXo/mPl4lR4FLuBDTMhKBsCD+txFEJ5iskkFsoZqCs=
+			N7mHWZDSaDR+lKpX5dUmsPYwvkNqXOrgOvcavSjVZ2A=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+htmyCYHK2h49XBH12EReR8bFezJsnAgYc/dQorQ0t0=
+			HS4XDNfF6EB8BjFG0EMnUMvTHzN2Qof2ZPzzdVUnAHI=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qu5Pg9sshGm+KjZIlRW/y9mUrzQvy+NkS/Kfvo3KWZM=
+			4UC+963urjoEZIgzzWcjpKVBQmJx0uP80lRnSdM9qWU=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h/wvdK9wogE4wZgU3/bC0uwpCvAlgdNUCD2UBPl3FGk=
+			ryF/VXMaAl0owoO6OC88lIrI+1ihhaGkjVTl092KRy4=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
@@ -321,7 +321,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZLeiCmDuky3bThLOfg91TO3aHU/toQMwdal6clkny/c=
+			2RjthUi+aR664+Af5oABpz4a8fcXwQSxPDasVTjRopI=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
@@ -342,7 +342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZLeiCmDuky3bThLOfg91TO3aHU/toQMwdal6clkny/c=
+			2RjthUi+aR664+Af5oABpz4a8fcXwQSxPDasVTjRopI=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -363,7 +363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7UwHpkuUBesAGR2QrCfDqS/stx8kAJgV10uA9ZmzyM=
+			Z7AF67qjqQxZVk1wX1EFKd1rD49dLaeLDvIgV5PkvM4=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
@@ -384,7 +384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7UwHpkuUBesAGR2QrCfDqS/stx8kAJgV10uA9ZmzyM=
+			Z7AF67qjqQxZVk1wX1EFKd1rD49dLaeLDvIgV5PkvM4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
