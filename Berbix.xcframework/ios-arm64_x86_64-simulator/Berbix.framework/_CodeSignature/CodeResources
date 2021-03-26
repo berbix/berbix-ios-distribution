@@ -6,11 +6,23 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		d491pUSZ208QYp8eIif25zODPsU=
+		N8t6QVJDf8uJABMwgH8C9kRdIJQ=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
 		5+pIO/8Nhf7KPLX2dM4792N6dP0=
+		</data>
+		<key>BerbixSDK.bundle/Lato-Black.ttf</key>
+		<data>
+		X9NSVd/TixecgNtC4bnUCw0F4LM=
+		</data>
+		<key>BerbixSDK.bundle/Lato-Bold.ttf</key>
+		<data>
+		1n/uCMeags43WrlimuWpA9qLsyE=
+		</data>
+		<key>BerbixSDK.bundle/Lato-Regular.ttf</key>
+		<data>
+		g9xZIXYafD0e57rbo/x+Hh9e2AM=
 		</data>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -26,7 +38,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		OGnGmVn0iwr9a3uXnznti8lkI4M=
+		EoYC1YkiO+ZNJ245V78U9jHLSBM=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +46,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		DpnpkKbvHYLBEgOub+Si0prSeTQ=
+		2+TRQiVfMjV0Jjlvp5KC4jrx8WA=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		lzhWOc6HttKNY2U6qIuXFyayVnY=
+		lpePNtsPmnJG7vBMWMnV16D7Wr4=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -169,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/wfBt7QiycncX8p7QSGtycuV3hV3q7SnU226IGMidw=
+			40vtAADOvHnVlAzkGfOSvkSlAYcp9RwPnAO6Qb/BQDI=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -177,6 +189,27 @@
 			<key>hash2</key>
 			<data>
 			N7mHWZDSaDR+lKpX5dUmsPYwvkNqXOrgOvcavSjVZ2A=
+			</data>
+		</dict>
+		<key>BerbixSDK.bundle/Lato-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iUTaWoYezgAYX6Fz6mUyTn1Hl6qGPG+g8D4GaAWXS2w=
+			</data>
+		</dict>
+		<key>BerbixSDK.bundle/Lato-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e3IFmfiu07rFuVMf7PZ1DI+n5ZO3J3ObwGkvzA9Vtng=
+			</data>
+		</dict>
+		<key>BerbixSDK.bundle/Lato-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6ol5wizx2DDj/5OardScxNeMhR48tZ0qqV6hDudS1dE=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Roboto-Bold.ttf</key>
@@ -204,7 +237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			56COQ82BAcnZ66nQOLyVsUwTkNBjH0Miru6ZepCYwPw=
+			qydxgtorA4NpPRFmkW89EQg6GLObROaRzmm/moaAvww=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -218,14 +251,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7MZ1LRqCtFbPNRNs/zblOXZj7/SJ0Wo02Xf6XvD7UDo=
+			xtYqRSzXh1V3GLhWu/vSBY/kYzjl2A7Qfm0fioQHmuo=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z06c4y4aE9U0bR6RCwHbNRMBMskqsdHQP6oUYHqcSNQ=
+			tBB4tCTFdKsP+cPc8EdEXSXBKzXKXvW1ClxyWscAMGU=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
