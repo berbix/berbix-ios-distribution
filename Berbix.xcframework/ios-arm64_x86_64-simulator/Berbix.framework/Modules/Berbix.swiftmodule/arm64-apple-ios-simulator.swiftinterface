@@ -4,14 +4,23 @@
 import AVFoundation
 @_exported import Berbix
 import Foundation
+import ImageIO
+import Sentry
 import Swift
+import SwiftyJSON
 import UIKit
 import Vision
-public enum BerbixError : Swift.Error {
+public enum BerbixError : Foundation.LocalizedError {
   case invalidState(Swift.String)
   case cameraAccessError
   case userExitError
   case apiError(Swift.Error)
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+extension UIColor {
+  convenience public init?(hex: Swift.String)
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class BerbixConfiguration : ObjectiveC.NSObject {
   @objc deinit
@@ -24,14 +33,14 @@ public enum BerbixError : Swift.Error {
   @objc override dynamic public init()
   @objc deinit
 }
-public enum BerbixEnvironment {
+public enum BerbixEnvironment : Swift.String {
   case development
   case sandbox
   case staging
   case production
-  public static func == (a: Berbix.BerbixEnvironment, b: Berbix.BerbixEnvironment) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
     get
   }
 }
@@ -51,5 +60,15 @@ public class BerbixSDK : Berbix.BerbixFlowDelegate {
   public func failed(error: Berbix.BerbixError)
   @objc deinit
 }
+extension String : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+extension UIImage {
+  public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
+  public class func gifImageWithName(_ name: Swift.String) -> UIKit.UIImage?
+}
 extension Berbix.BerbixEnvironment : Swift.Equatable {}
 extension Berbix.BerbixEnvironment : Swift.Hashable {}
+extension Berbix.BerbixEnvironment : Swift.RawRepresentable {}
