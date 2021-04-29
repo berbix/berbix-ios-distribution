@@ -6,7 +6,7 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		L+2mHtyusH1djxoE00c7loDxwMo=
+		2YxOYig1djKRrRkHt77hdCiD6sU=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		NuDvRwnD9ql+wzEiTMHNhROt97o=
+		9LUQZziG0QbOfamY9+cWAIlIXsA=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		GQojBUiMbEtXzHgBn4FYVNda8xM=
+		r0zrzrmJjJtQSpeYR881AlzLBsw=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		zwaXbfHoCuBylMqX1x8njBjsM/Y=
+		wZx6nQagxnaELO1n3zWDdYBmwAU=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -166,6 +166,10 @@
 		<data>
 		/rh0QKr1thqckEuYnOZP9XsOEMs=
 		</data>
+		<key>spinner.gif</key>
+		<data>
+		UJvbi9emWMF/RwluUBGZuCOJkUY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -173,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gApaS5A1dm5FQre1rGzdm4YBD66rm1cefOGdIZ+wO6U=
+			QI5JzNUjVKjV98WEeEVJ1OSv5gE0/GDPQCqg+WGq1B0=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -208,7 +212,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WPPEhwGNPlyI+szDe7BPJZ0CgOUCyJe0sbz/WyP8cIw=
+			2TwN3jMGZ8XinYTQfPjb7phrxlsKq+HWhYKwvtqUC1I=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -222,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nccZ1woCLUqG57JM2U21RaOwD++MxyO0gJci5q5LHpY=
+			lYzdKxFKHEa0hMDq1+SBt5NsCwQKPqwfhWC7+rBH93Y=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cKlVXIGc7rTU7B5lVxL3UBH95/ng6e3ongemHi6k0bc=
+			57SH/300AxeejVfwzunioU+v1oBZbHtMvLXKgrIv5pY=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
@@ -403,6 +407,13 @@
 			<key>hash2</key>
 			<data>
 			jWhkTi5vEFD4U9rFEtTt64DNXqceCuRhzmofUdCxcxM=
+			</data>
+		</dict>
+		<key>spinner.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0WBNhm0nx7BndCGugEs50jC0Ki9n6U/e7jfDwh5GMcw=
 			</data>
 		</dict>
 	</dict>
