@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Berbix'
-  s.version          = '1.10.3-beta2'
+  s.version          = '1.10.3'
   s.summary          = 'Berbix iOS SDK for rendering the Berbix Verify flow'
 
   s.description      = <<-DESC

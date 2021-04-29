@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3.2 effective-4.1.50 (swiftlang-1200.0.45 clang-1200.0.32.28)
-// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4 -enforce-exclusivity=checked -O -module-name Berbix
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Berbix
 import AVFoundation
 @_exported import Berbix
 import Foundation
@@ -21,8 +21,8 @@ public enum BerbixError : Swift.Error {
   public func withBaseURL(_ baseURL: Swift.String) -> Berbix.BerbixConfigurationBuilder
   public func withEnvironment(_ environment: Berbix.BerbixEnvironment) -> Berbix.BerbixConfigurationBuilder
   public func build() -> Berbix.BerbixConfiguration
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 public enum BerbixEnvironment {
   case development
@@ -30,10 +30,10 @@ public enum BerbixEnvironment {
   case staging
   case production
   public static func == (a: Berbix.BerbixEnvironment, b: Berbix.BerbixEnvironment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
     get
   }
-  public func hash(into hasher: inout Swift.Hasher)
 }
 public protocol BerbixFlowDelegate {
   func completed()
