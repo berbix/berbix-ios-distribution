@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		agxX7njiGzk6Xij9z9E58GOMArA=
+		MVMc5Gxm7uCb0P7OLuMsaqPvG5A=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -65,6 +65,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>spinner.gif</key>
+		<data>
+		UJvbi9emWMF/RwluUBGZuCOJkUY=
+		</data>
 		<key>zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -81,11 +85,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			agxX7njiGzk6Xij9z9E58GOMArA=
+			MVMc5Gxm7uCb0P7OLuMsaqPvG5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			nSAkUmPh0k3pd0zKXqftYYAV4QiRHTtPT7k9i4T2B/o=
+			2/KsUWZZnt5+0mProfwCKL1tLJEoEVQmhu9/tENNzIk=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>
@@ -185,6 +189,17 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>spinner.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UJvbi9emWMF/RwluUBGZuCOJkUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			0WBNhm0nx7BndCGugEs50jC0Ki9n6U/e7jfDwh5GMcw=
+			</data>
 		</dict>
 		<key>zh-Hans.lproj/Localizable.strings</key>
 		<dict>
