@@ -6,7 +6,7 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		yKwirSRqSZ0PzKnvW3wnW3UaY9E=
+		E7OkNfPxu7ZrQkhXQKl2cTz2zlA=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		ThKuKb6UCcDrmG3NOfKzoqyFZkM=
+		rSB1YeRku9jpXqQh2Vo72GouV6c=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Oi8vRlq/5MPSNu+bGGqVONVXvS8=
+		bvz76fTze0bJtxMh/YlK3LTrVUs=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		8CINKe0uY+0iSRsEIKRdh+apZGc=
+		7w94rJyZhZqvcLQBOoiQgPeKeOY=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -124,7 +124,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VPjZlq/kcpFoLNpc/3A6xDu6sVU=
+		ZPTY5sHytoLQHtCRjaQZvLa34Qk=
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -136,7 +136,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		VPjZlq/kcpFoLNpc/3A6xDu6sVU=
+		ZPTY5sHytoLQHtCRjaQZvLa34Qk=
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -148,7 +148,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0WOP1t3GUHf7Uucu7LaK58gXocI=
+		dAhM5FVYjQ1lTv6kvOs9+WTtsI0=
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -160,7 +160,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0WOP1t3GUHf7Uucu7LaK58gXocI=
+		dAhM5FVYjQ1lTv6kvOs9+WTtsI0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -173,7 +173,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			11kCJ2v4Twa+fjSic+hJXqrmQbqNHuwnIs9+v7IFv60=
+			Yv7FMbAQwo8oxDlltZY9E2gHfbgYCJSQkBqWnBC5mi0=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -208,7 +208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zvHHjPmPikhuMgNq2TWDs0+BZvuCZsEsTYlPILnNccI=
+			ySZxqsYzCsRjZWf1ngct3W1lKs+uNwyEwq71/3gpliU=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -222,14 +222,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			juY5LIryG6Rla1Sc8gkFgU4zpA+C4uOldgUPx4x49DI=
+			Nt84wzvixS8a1Md6/uuhrXD07T3SWru4l7b4EqsDmCA=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YpJjdnMeyYrB3IfyNAQYp4gG5TU07KPmc3c01MSuCao=
+			Ik6IBEDJRD37Lh0GteJkjHoD4IkbfOZJHikwhXiEwqc=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
@@ -332,7 +332,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jj3b2AV5s1qvPSsjr/9DUMKQVpjieAAgXMqYPcyLmlU=
+			oaT+B0TsPjauT+ygVwqQFjuSel/m99bKZagaNJk3+FM=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
@@ -353,7 +353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jj3b2AV5s1qvPSsjr/9DUMKQVpjieAAgXMqYPcyLmlU=
+			oaT+B0TsPjauT+ygVwqQFjuSel/m99bKZagaNJk3+FM=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -374,7 +374,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMyJqb/h2AJJ/qimTUofw4JHRBmOW1wA+UmN3Pmv72Y=
+			YXXdiA5Zz9VOIK8b0e1Dg5552seMIhnuNEv+QX6Oqtk=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
@@ -395,7 +395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PMyJqb/h2AJJ/qimTUofw4JHRBmOW1wA+UmN3Pmv72Y=
+			YXXdiA5Zz9VOIK8b0e1Dg5552seMIhnuNEv+QX6Oqtk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
