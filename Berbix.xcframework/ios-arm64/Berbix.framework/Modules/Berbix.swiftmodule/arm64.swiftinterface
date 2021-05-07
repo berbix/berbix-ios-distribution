@@ -7,7 +7,6 @@ import Foundation
 import ImageIO
 import Sentry
 import Swift
-import SwiftyJSON
 import UIKit
 import Vision
 public enum BerbixError : Foundation.LocalizedError {
