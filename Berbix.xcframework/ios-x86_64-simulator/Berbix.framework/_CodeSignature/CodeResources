@@ -6,7 +6,7 @@
 	<dict>
 		<key>BerbixSDK.bundle/Assets.car</key>
 		<data>
-		zl5QS9u8cbbDslmPnALgAr8CdkA=
+		XoLj7NUQxOxSZjiVTywnX0V14TI=
 		</data>
 		<key>BerbixSDK.bundle/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		DYMiFNUpwT6bXU4uMJ6qZ+vAw3s=
+		4Y6KawNJNbHZezJMVAPp+ZGk/rU=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		6Qnrh1QWO8bZuxJmNskNluzJRhc=
+		09l6XZm6U+WXEBnERsWumPc4awA=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		+nvuHeB1cb7r6y532JWxllNfS4s=
+		9ylMXKKL6/VDdXzbCaDpjR4rc1I=
 		</data>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -48,7 +48,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m8tEQUVHoA9qQqF3WvA3yT9SbZ4=
+			l8j6fBTc0Tzr7hI5Fm5yYg2xib8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m4Hgba7pl7SG9Vkly9i6DWfOKig=
+			GT+DpPpZtwe1fsaRxcOGE41PX2o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -66,7 +66,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hn8mpZIX6tS5nm4OsGhQDpbxIA8=
+			+41Og9eYz4nCAkmy+Y+jPiLqJ4I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			baHcvPngPC2frAZxoQRf+Xat4rc=
+			rkDbi7Kym9i2uEgjkYF6DuCkScU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -84,7 +84,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CeY9szv46/IRhDYKUTjvY7C30Y8=
+			5nFDkeihyFsEspsSYhOc6+Y4QwA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EOsbrzEnEkLqGe4NHt+g3NCY1RI=
+			lLEK84zvADLsCC70KNqfu+QTvjo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -124,7 +124,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x69+Y8P+EYHVXzyao48EQstjYmg=
+		M9R/s4FY+7WVSoI5kYlgxiJ38gk=
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -136,7 +136,7 @@
 		</data>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		x69+Y8P+EYHVXzyao48EQstjYmg=
+		M9R/s4FY+7WVSoI5kYlgxiJ38gk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l9YGcIcSLuvjHrzEyGT54cOmxcHTi6HkrIWAECgb0Nk=
+			gGBT7ccFiCUtRY1ztzjXO0R0SdtJ9q4HC/QK9n7pHLw=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/Info.plist</key>
@@ -180,7 +180,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WfDsxdOTjZL3knXM5o21Ee8jAho7XXYpPlILl8W3EY4=
+			GxAqgCHgUo0/NtSFtrHtOq7dvaHc334WvINzB3k7QfY=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeRequirements</key>
@@ -194,14 +194,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ogTE6RhdOR2ihCgjuCfzXK0m/9PKPt5JPMbCw2VgC4=
+			GxAPbf6SFCbhhgViHJ+x9e7Qxm0b6chnur4oCg4W+ms=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			scPVoXxSD9f9JSsbq5+lQ/H8ADPjYqQS9aJzTU5kMZ4=
+			oJIOTPc43WyhDu55892sVWNdUe4ouRwNcn90IprLhIM=
 			</data>
 		</dict>
 		<key>BerbixSDK.bundle/_CodeSignature/CodeSignature</key>
@@ -215,7 +215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TINwJfOQoVobKZ9rs+WNxObcJD97hsuzJS+xkF1GnxU=
+			jcC5RwpgiLXEDxtNcZIKaCcBEOM3JXK+p/yQMS1essU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WtP5el0OaarcDN13dS9baO1KorTShqHMVfiMYE7z/gg=
+			BJa8E9pRIf/96bIRtv5hjkclyh9mc9Ge4YAIHhhhfYU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZDHbaIFZ4ND0n+3gfHK9dGdOlPHe4HJG8iG7BpYMU0=
+			COfBLRYLbcBsn9/NJadPkGjXZZAn+JhWWcOAMEvEkkQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -242,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBDFAbBB/e1Y4fxn2OS+njFuYYKnEV2dH/A5fzZEXEw=
+			r4My+5jiDCVf1Yixn0AB/ICLdQ5hqwodTLSYPux7NaA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -251,7 +251,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7yZpEmif7LawClRQHVHVsZNKqPQNIc6ji9QbPm5guqY=
+			ot7cdnzKr22MJWD/eHqUaeSsgrPcyeaj/5JgAcQ6mgU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -267,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nqUhzS4sRNop8WgQxU1eSJ7ZohXHJpsSfnoeD9VCw4w=
+			xsuNXbSwefoTWWaI2Af4opeoASxMtRFZ13/BHbLkv5M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -304,7 +304,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S9z+OiIVfTD3QXyj4vpUwDQsIfsZuHbYwYyfslIrgJE=
+			7jNTMdSbfcJjvIgAF9dJtLN9Sqf0ACvygZ7M7/79QZs=
 			</data>
 		</dict>
 		<key>Modules/Berbix.swiftmodule/x86_64.swiftdoc</key>
@@ -325,7 +325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S9z+OiIVfTD3QXyj4vpUwDQsIfsZuHbYwYyfslIrgJE=
+			7jNTMdSbfcJjvIgAF9dJtLN9Sqf0ACvygZ7M7/79QZs=
 			</data>
 		</dict>
 	</dict>
