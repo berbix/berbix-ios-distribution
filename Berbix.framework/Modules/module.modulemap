@@ -1,11 +1,11 @@
-framework module Berbix {
-  umbrella header "Berbix-umbrella.h"
+framework module BerbixSDK {
+  umbrella header "BerbixSDK.h"
 
   export *
   module * { export * }
 }
 
-module Berbix.Swift {
-    header "Berbix-Swift.h"
+module BerbixSDK.Swift {
+    header "BerbixSDK-Swift.h"
     requires objc
 }
