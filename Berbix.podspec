@@ -24,5 +24,8 @@ Berbix iOS SDK for rendering the Berbix Verify flow
   s.ios.deployment_target = '11.0'
 
   s.vendored_frameworks = 'Berbix.framework'
+  s.public_header_files = "Berbix.framework/Headers/*.h"
+  s.source_files = "Berbix.framework/Headers/*.h"
+  
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 end
