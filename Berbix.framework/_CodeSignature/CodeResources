@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		LvlLFU+wDh4cH6CkUL9/DpyKjP0=
+		MnjedeAGaFCiy6pmZ4SWRon6Xts=
 		</data>
-		<key>Headers/BerbixSDK-Swift.h</key>
+		<key>Headers/Berbix-Swift.h</key>
 		<data>
-		cN7cuGjdlxzT5V9C7t5ipTalgYw=
+		a4VHv08bBw1W5hW2C3nuqmrAtVI=
 		</data>
 		<key>Headers/BerbixSDK.h</key>
 		<data>
@@ -18,35 +18,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		L3iTLWloRBVtj+v2eRnM7C8idv0=
+		v8ZjfrvwGrLZHzs+YHd++0jF5Rw=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/Berbix.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		25BTx92EYXdbdoRMf1dFF/GsapI=
+		VAk3zf6cX0bCUCJtRqbUpRYIqN0=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/Berbix.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		25BTx92EYXdbdoRMf1dFF/GsapI=
+		VAk3zf6cX0bCUCJtRqbUpRYIqN0=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/Berbix.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rgG+nzkGbVorViVlO9u2rZxvI9Q=
+		A6hjUWWaYtZLvR7Z0zisn1/nEI4=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/Berbix.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		M/jbnWok95NBIjHSZLbncLTgGko=
+		XXwd/cBnwr+bQ6k6UIEDTb8tzxw=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rgG+nzkGbVorViVlO9u2rZxvI9Q=
+		A6hjUWWaYtZLvR7Z0zisn1/nEI4=
 		</data>
-		<key>Modules/BerbixSDK.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Berbix.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		M/jbnWok95NBIjHSZLbncLTgGko=
+		XXwd/cBnwr+bQ6k6UIEDTb8tzxw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		yBgQm2/kO6C3IOH2pi1xMEiX5d4=
+		N4FjGrjm/v/QjYhjewInmYfwcp0=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VdxtkMIcYLwV31wehzkiMugbDtLf/5KMMff7mNpi4G4=
+			nZdNznT12+WBQLEdxkqGeayOr2NReq79LOVVhy3EgNI=
 			</data>
 		</dict>
-		<key>Headers/BerbixSDK-Swift.h</key>
+		<key>Headers/Berbix-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bv6sUv0/wa3RMar6wOcYFM9539xMgPaX8d7H4V779Zg=
+			BiioKFB+kDKJ7r/QCUWub985cY5DWLiY42KcfPgp7vI=
 			</data>
 		</dict>
 		<key>Headers/BerbixSDK.h</key>
@@ -142,53 +142,53 @@
 			8fkEcIn1TA93DHgl8tv0zCmGaQ9rKuBMQ6iesh02TkE=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/Berbix.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/VG0Uc18jqXVyIjnoxky2ZgTpFuO1xCefgRbjQLyBFI=
+			5ntAbLxnBCzgts6AakLc5p+vVn/b7BsJtKTozs7R/48=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/Berbix.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/VG0Uc18jqXVyIjnoxky2ZgTpFuO1xCefgRbjQLyBFI=
+			5ntAbLxnBCzgts6AakLc5p+vVn/b7BsJtKTozs7R/48=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/Berbix.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LpeZyswS+OA/8/EiXKlMnUSrn4KDgJegaQMEBjLpgL0=
+			HugIoBbXqNodobFQfiBP2tdouOuQuJJ6NdWJ1l9MdNU=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/Berbix.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VqRE0ViM4u7CGhpIXhWcIlZM8oUOf0XGaQCGJdGZfew=
+			URD3PvgLs5UG+Kt2PIrzyXzTM3A4UoDuDhlbueimtKY=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Berbix.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LpeZyswS+OA/8/EiXKlMnUSrn4KDgJegaQMEBjLpgL0=
+			HugIoBbXqNodobFQfiBP2tdouOuQuJJ6NdWJ1l9MdNU=
 			</data>
 		</dict>
-		<key>Modules/BerbixSDK.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Berbix.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VqRE0ViM4u7CGhpIXhWcIlZM8oUOf0XGaQCGJdGZfew=
+			URD3PvgLs5UG+Kt2PIrzyXzTM3A4UoDuDhlbueimtKY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vXsk55bVh1wJQXp+hpqhYA9dkCjN4I4YxGOl4QFVv3E=
+			NUBJBOW44RmRyDM28T7S+9JZrrRcdfsuvP2ZieFuEUI=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>
