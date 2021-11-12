@@ -5,7 +5,6 @@ framework module Berbix {
   module * { export * }
 }
 
-
 module Berbix.Swift {
     header "Berbix-Swift.h"
     requires objc
