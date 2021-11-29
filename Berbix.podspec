@@ -27,9 +27,4 @@ to get started.
   s.public_header_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.source_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.vendored_frameworks = "Berbix.xcframework"
-  s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.swift_version = "4.2"
 end
