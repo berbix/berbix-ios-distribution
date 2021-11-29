@@ -24,12 +24,7 @@ to get started.
   s.platform = :ios, "11.0"
   s.ios.deployment_target = '11.0'
 
-  s.public_header_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
-  s.source_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
-  s.vendored_frameworks = "Berbix.xcframework"
-  s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.swift_version = "4.2"
+  s.source_files = 'Berbix/Classes/**/*'
+  s.resource_bundle = { "BerbixSDK" => ["Berbix/Assets/**/*.{storyboard,png,xcassets,imageset,json,ttf,strings,gif}"] }
+  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 end
