@@ -1,7 +1,7 @@
 name: Tag Release on Merge
 on:
   pull_request: 
-    types: [closed]
+    types: [opened, reopened, closed]
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         name: Check-out source
-      - name: Create Release from Merge
+      - name: Automatically Tag & Create a Release
         uses: softprops/action-gh-release@master
         with:
           tag_name: ${{ github.ref_name }}
