@@ -15,10 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         name: Check-out source
-      - name: Create Berbix.json
-        run: |
-          echo ${{ fromJSON(steps.carthage.outputs.assets)[0].browser_download_url }}
-          echo '{"${RELEASE_NAME:1}": "https://github.com/berbix/berbix-ios-distribution/releases/download/${RELEASE_NAME:1}/Berbix.xcframework.zip"}' >> Berbix.json
       - name: Create Carthage Zip
         run: |
           mkdir -p Carthage/Build/iOS/
@@ -32,6 +28,20 @@ jobs:
           tag_name: ${{ github.ref_name }}
           files: |
             Berbix.xcframework.zip
+          draft: true
+      - name: Create Berbix.json
+        with:
+          URL: ${{ fromJSON(steps.carthage.outputs.assets)[0].browser_download_url }}
+        run: |
+          echo $URL
+          echo '{"${RELEASE_NAME:1}": "https://github.com/berbix/berbix-ios-distribution/releases/download/${RELEASE_NAME:1}/Berbix.xcframework.zip"}' >> Berbix.json
+      - name: Add Berbix.json to GitHub Release
+        id: carthage
+        uses: softprops/action-gh-release@v1
+        with:
+          fail_on_unmatched_files: true
+          tag_name: ${{ github.ref_name }}
+          files: |
             Berbix.json
           draft: true
       
