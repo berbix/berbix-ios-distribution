@@ -6,6 +6,7 @@ on:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+  RELEASE_NAME: ${{ github.ref_name }}
 
 jobs:
   release-carthage:
@@ -14,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         name: Check-out source
-        # TODO: Create Berbix.json
+      - name: Create Berbix.json
+        run: |
+          echo '{"${RELEASE_NAME:1}": "https://github.com/berbix/berbix-ios-distribution/releases/download/${RELEASE_NAME:1}/Berbix.xcframework.zip"}' >> Berbix.json
       - name: Create Carthage Zip
         run: |
           mkdir -p Carthage/Build/iOS/
@@ -25,7 +28,9 @@ jobs:
         with:
           fail_on_unmatched_files: true
           tag_name: ${{ github.ref_name }}
-          files: Berbix.xcframework.zip
+          files: |
+            Berbix.xcframework.zip
+            Berbix.json
           draft: true
   release-cocoapods:
     name: Release for CocoaPods
