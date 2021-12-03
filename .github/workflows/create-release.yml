@@ -22,7 +22,7 @@ jobs:
           zip -r Berbix.xcframework.zip Carthage
       - name: Add Carthage Zip to GitHub Release
         id: carthage
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@master
         with:
           fail_on_unmatched_files: true
           tag_name: ${{ github.ref_name }}
@@ -31,12 +31,12 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          RELEASE_ID: ${{ steps.carthage.outputs.id }}
+          DOWNLOAD_URL: ${{ fromJSON(steps.<step-id>.outputs.assets)[0].browser_download_url }}
         run: |
-          echo $RELEASE_ID >> Berbix.json
+          echo $DOWNLOAD_URL >> Berbix.json
           cat Berbix.json
       - name: Add Berbix.json to GitHub Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@master
         with:
           fail_on_unmatched_files: true
           tag_name: ${{ github.ref_name }}
