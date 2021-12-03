@@ -15,6 +15,11 @@ jobs:
       - uses: actions/checkout@v2
         name: Check-out source
         # TODO: Create Berbix.json
+      - name: Create Carthage Zip
+        run: |
+          mkdir -p Carthage/Build/iOS/
+          cp -r Berbix.xcframework Carthage/Build/iOS
+          zip -r Berbix.xcframework.zip Carthage
       - name: Add Carthage Zip to GitHub Release
         uses: softprops/action-gh-release@v1
         with:
@@ -30,7 +35,6 @@ jobs:
         name: Check-out source
       - name: Lint & Deploy Podspec
         run: |
-          cd berbix-ios-distribution
           pod repo add berbix https://github.com/berbix/berbix-ios-distribution.git
           pod lib lint --verbose
           #pod repo push berbix Berbix.podspec
