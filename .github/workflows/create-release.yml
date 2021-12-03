@@ -31,8 +31,9 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          URL: ${{ steps.carthage.outputs }}
+          URL: ${{ fromJSON(steps.carthage.outputs) }}
         run: |
+          echo ${{ steps.carthage.outputs }}
           echo $URL >> Berbix.json
           cat Berbix.json
       - name: Add Berbix.json to GitHub Release
