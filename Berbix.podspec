@@ -27,4 +27,6 @@ to get started.
   s.public_header_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.source_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.vendored_frameworks = "Berbix.xcframework"
+
+  s.swift_version = "4.2"
 end
