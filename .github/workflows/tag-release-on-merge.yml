@@ -18,7 +18,6 @@ jobs:
       - name: Create Release from Merge
         uses: softprops/action-gh-release@master
         with:
-          fail_on_unmatched_files: true
           tag_name: ${{ github.ref_name }}
           draft: true
           prerelease: true
