@@ -31,9 +31,9 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          URL: ${{ steps.carthage.outputs.assets[1].browser_download_url }}
+          RELEASE_ID: ${{ steps.carthage.outputs.id }}
         run: |
-          echo $URL >> Berbix.json
+          echo $RELEASE_ID >> Berbix.json
           cat Berbix.json
       - name: Add Berbix.json to GitHub Release
         uses: softprops/action-gh-release@v1
