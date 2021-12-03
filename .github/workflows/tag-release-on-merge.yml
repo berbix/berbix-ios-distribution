@@ -19,5 +19,5 @@ jobs:
         with:
           fail_on_unmatched_files: true
           tag_name: ${{ github.ref_name }}
-          draft: trur
+          draft: true
           prerelease: true
