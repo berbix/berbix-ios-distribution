@@ -31,7 +31,7 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          URL: ${{ steps.carthage.outputs.assets[0].browser_download_url }}
+          URL: ${{ steps.carthage.outputs.assets }}
         run: |
           echo $URL
           echo '{"${RELEASE_NAME:1}": "https://github.com/berbix/berbix-ios-distribution/releases/download/${RELEASE_NAME:1}/Berbix.xcframework.zip"}' >> Berbix.json
