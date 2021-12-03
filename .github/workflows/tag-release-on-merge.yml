@@ -1,8 +1,9 @@
 name: Tag Release on Merge
 on:
+  release:
+    types: [created]
   pull_request: 
-    types: 
-      - closed
+    types: [closed]
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
