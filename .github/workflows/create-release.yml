@@ -31,7 +31,7 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          URL: ${{ steps.carthage.outputs.url }}
+          URL: ${{ steps.carthage.outputs.assets }}
         run: |
           echo $URL >> Berbix.json
           cat Berbix.json
