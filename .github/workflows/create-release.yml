@@ -29,6 +29,7 @@ jobs:
           files: |
             Berbix.xcframework.zip
           draft: true
+          prerelease: true
       # We need the URL from the previous step to construct this JSON
       - name: Create Berbix.json
         env:
@@ -44,6 +45,7 @@ jobs:
           files: |
             Berbix.json
           draft: true
+          prerelease: true
       
   release-cocoapods:
     name: Release for CocoaPods
