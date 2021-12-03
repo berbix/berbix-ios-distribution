@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Berbix'
-  s.version          = '3.0.1'
+  s.version          = '3.0.2'
   s.summary          = 'Berbix iOS SDK for rendering the Berbix Verify flow'
 
   s.description      = <<-DESC
@@ -27,9 +27,4 @@ to get started.
   s.public_header_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.source_files = "Berbix.xcframework/*/Berbix.framework/Headers/*.h"
   s.vendored_frameworks = "Berbix.xcframework"
-  s.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.swift_version = "4.2"
 end
