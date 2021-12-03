@@ -28,7 +28,7 @@ jobs:
           tag_name: ${{ github.ref_name }}
           files: |
             Berbix.xcframework.zip
-          draft: true
+          draft: false
           prerelease: true
       # We need the URL from the previous step to construct this JSON
       - name: Create Berbix.json
@@ -44,7 +44,7 @@ jobs:
           tag_name: ${{ github.ref_name }}
           files: |
             Berbix.json
-          draft: true
+          draft: false
           prerelease: true
       
   release-cocoapods:
