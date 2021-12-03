@@ -31,7 +31,7 @@ jobs:
           draft: true
       - name: Create Berbix.json
         env:
-          DOWNLOAD_URL: ${{ fromJSON(steps.<step-id>.outputs.assets)[0].browser_download_url }}
+          DOWNLOAD_URL: ${{ fromJSON(steps.carthage.outputs.assets)[0].browser_download_url }}
         run: |
           echo $DOWNLOAD_URL >> Berbix.json
           cat Berbix.json
