@@ -30,7 +30,7 @@ jobs:
             Berbix.xcframework.zip
           draft: true
       - name: Create Berbix.json
-        with:
+        env:
           URL: ${{ fromJSON(steps.carthage.outputs.assets)[0].browser_download_url }}
         run: |
           echo $URL
