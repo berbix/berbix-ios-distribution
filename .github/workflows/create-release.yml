@@ -36,7 +36,6 @@ jobs:
           echo $URL
           echo '{"${RELEASE_NAME:1}": "https://github.com/berbix/berbix-ios-distribution/releases/download/${RELEASE_NAME:1}/Berbix.xcframework.zip"}' >> Berbix.json
       - name: Add Berbix.json to GitHub Release
-        id: carthage
         uses: softprops/action-gh-release@v1
         with:
           fail_on_unmatched_files: true
