@@ -55,6 +55,7 @@ jobs:
         name: Check-out source
       - name: Lint & Deploy Podspec
         run: |
+          rm -rf Berbix.framework # Remove legacy framework
           pod repo add berbix https://github.com/berbix/berbix-ios-distribution.git
           pod lib lint --verbose
           pod repo push berbix Berbix.podspec
