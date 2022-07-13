@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BerbixAdvanced-Swift.h</key>
 		<data>
-		C/C4k8taA293z4Lr8TGEuhpPFk8=
+		HGfHCp9vBVXkA0Rvb085P1FOHNU=
 		</data>
 		<key>Headers/BerbixAdvanced.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sCZujuTcWXF7xdH4CyAEpX26EGE=
+		cFqL9loorO5PWsLpGcyK10G6qD0=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		R9cJJlKA7FtWfYCqQgfvTZltaUs=
+		C4Hb5Y6O2HXaSgnlxzUQoFyuhSE=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XUO1Um2gxKpiYUNdcKgYbInq1N0=
+		i4S4FOhVY4LRLyzJTyMrgi85a1g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,7 +39,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			26CaNcJvlDQU7IJAhrz0LX/J229T1qNxCxx05+F+O5U=
+			wtIReDahTFt2OqvszgGOvwiaJlDCQWk9+nbwiQgEm+0=
 			</data>
 		</dict>
 		<key>Headers/BerbixAdvanced.h</key>
@@ -60,14 +60,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oeiECUlkhzQ9SwEqifvjUxA2fcQMGd0zSsYvmAerJR4=
+			F+d5UHOfmvs551xInIk14hrJXBRSrq9RrAvr/HU/WrM=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XxYIElt8TlAEskSFXLKmbv07XZ2Jna02ww7Z9j5Tqss=
+			s8M3dpTXHWoJbGaiO9pZ+pdkw6AR7xNx/S89pIsVGVs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

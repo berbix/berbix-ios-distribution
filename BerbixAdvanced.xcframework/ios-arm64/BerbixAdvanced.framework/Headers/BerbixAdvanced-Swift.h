@@ -214,6 +214,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class UIWindow;
 @class NSCoder;
 
 /// Real time preview of <code>CameraSession</code> without any I/O overhead
@@ -225,6 +226,7 @@ SWIFT_CLASS("_TtC14BerbixAdvanced13CameraPreview")
 /// Required to support hardware accelerated previews
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layerClass;)
 + (Class _Nonnull)layerClass SWIFT_WARN_UNUSED_RESULT;
+- (void)willMoveToWindow:(UIWindow * _Nullable)newWindow;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
