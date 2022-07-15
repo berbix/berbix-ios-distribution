@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Berbix'
-  s.version          = '3.0.4'
+  s.version          = '3.0.5'
   s.summary          = 'Berbix iOS SDK for rendering the Berbix Verify flow'
 
   s.description      = <<-DESC
@@ -23,8 +23,9 @@ to get started.
 
   s.platform = :ios, "11.0"
   s.ios.deployment_target = '11.0'
-
   s.vendored_frameworks = "Berbix.xcframework"
 
   s.swift_version = "4.2"
+
+  s.dependency 'BerbixAdvanced', '0.1.2'
 end
