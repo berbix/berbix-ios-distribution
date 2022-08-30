@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BerbixAdvanced-Swift.h</key>
 		<data>
-		1VjUtc54QADMYNiTQi8QO9VjJ3w=
+		Y/jyixhdS0IJe9F6zTKargmCHVQ=
 		</data>
 		<key>Headers/BerbixAdvanced.h</key>
 		<data>
@@ -14,31 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2vrX48o/zEjl2v10X5KJ3ZNulWQ=
+		2166DMxDQMd2uZOtHtIlWkQGcEw=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gfRYBM0RARdcXXV/GynEm3o5aSw=
+		qkvhdPnFP89Tl3JtivwCOtfDzmw=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EzpAwGhpI1KtTSjOE/R22PWLk5Q=
+		E6kHkCNSw6oG0bxQYQoJa+vu3rc=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rgVxLKE3JcgYJgOLPpmzqkKEu+Y=
+		i2TqS8FxTUJoGZPcTSnV944Wqps=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		qkvhdPnFP89Tl3JtivwCOtfDzmw=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		E6kHkCNSw6oG0bxQYQoJa+vu3rc=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		i2TqS8FxTUJoGZPcTSnV944Wqps=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		P79nfL3ZpNWx0dQcxl3Bq+PZIR8=
+		FAR1Xk3Pd/X8DXmtj64KkdHAaeM=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ysDCJvS7z/KpyFdEabUFZ3uHxYk=
+		OhaLn4LoexzCXmLpsqMjg/cCn9o=
 		</data>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZHLEhbM8xAy0+E7kyJ3k3cq1pK0=
+		kPqn70hU0ZtPkNpxIhidM7YU9cI=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		FAR1Xk3Pd/X8DXmtj64KkdHAaeM=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		OhaLn4LoexzCXmLpsqMjg/cCn9o=
+		</data>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		kPqn70hU0ZtPkNpxIhidM7YU9cI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kPYArNMNZ3GETvPiUmbjfcXp49f/QzmVDoUpI8s2vaY=
+			4pd3gxLFCV3NnNOlF/siGMSflMdWAP9kj/U2jwpE3/E=
 			</data>
 		</dict>
 		<key>Headers/BerbixAdvanced.h</key>
@@ -65,42 +89,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YpNml1TnckMiCCvaAvfRCFjajVQH6GjfMDcTxYEqhVM=
+			CkhVDvIn2brEoEe3CqrtxMTixz7nnz5N/+M2zyidPz0=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FnURASFIFoWpsEGcVy4VZNDROkjRUnaSvngtH5z2Pj4=
+			wPuIBljIIhemwA/iyC+rBaN18V4fe1v5vEOSRU/XSVs=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCRPQFzVr8Ed7Q6yBSpmDEPosZDDjPrI7YkGksMjZUU=
+			8ALLzmd8nsOPQVvhJmObxLq4/+CgR2PM9KsEZ+H04bA=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CkhVDvIn2brEoEe3CqrtxMTixz7nnz5N/+M2zyidPz0=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wPuIBljIIhemwA/iyC+rBaN18V4fe1v5vEOSRU/XSVs=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ALLzmd8nsOPQVvhJmObxLq4/+CgR2PM9KsEZ+H04bA=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a9dKUlM1kI7upoudS/FsS9EVig2/RElGMVz/0DXriY0=
+			iBFSqT6GrfRceUMjIingO2fWFYJQzwEI3qugW2pQz2s=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z+ilgUuiCks9jcoZI0vR351pPMcRprMugfx5a5HGUNA=
+			OnksYp1OnG0wvnZ8Tfln9gPMWiZ1kMh+tC9jZgkW5H0=
 			</data>
 		</dict>
 		<key>Modules/BerbixAdvanced.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esBJbXxbvOnUodPNlLnCpeqCwB3wTtdhBLUi0dcmmgk=
+			uv8bio6LPWC32L9D69IgB6oruec7ijooPXf+IofvxOc=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iBFSqT6GrfRceUMjIingO2fWFYJQzwEI3qugW2pQz2s=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OnksYp1OnG0wvnZ8Tfln9gPMWiZ1kMh+tC9jZgkW5H0=
+			</data>
+		</dict>
+		<key>Modules/BerbixAdvanced.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uv8bio6LPWC32L9D69IgB6oruec7ijooPXf+IofvxOc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
