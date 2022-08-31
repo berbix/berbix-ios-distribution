@@ -21,10 +21,12 @@ to get started.
   s.author           = { 'Eric Levine' => 'eric@berbix.com' }
   s.source           = { :git => 'https://github.com/berbix/berbix-ios-distribution.git', :tag => s.version.to_s }
 
-  s.platform = :ios, "11.0"
-  s.ios.deployment_target = '11.0'
+  s.platform = :ios, "12.0"
+  s.ios.deployment_target = '12.0'
 
   s.vendored_frameworks = "Berbix.xcframework"
 
   s.swift_version = "4.2"
+
+  s.dependency 'BerbixAdvanced', '0.2.0'
 end
