@@ -1,0 +1,4264 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZFieldType",
+        "printedName": "MRZFieldType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "documentClass",
+            "printedName": "documentClass",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO13documentClassyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO13documentClassyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "documentType",
+            "printedName": "documentType",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO08documentD0yA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO08documentD0yA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "issuingCountry",
+            "printedName": "issuingCountry",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO14issuingCountryyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO14issuingCountryyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "surname",
+            "printedName": "surname",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO7surnameyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO7surnameyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "givenName",
+            "printedName": "givenName",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO9givenNameyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO9givenNameyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "documentNumber",
+            "printedName": "documentNumber",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO14documentNumberyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO14documentNumberyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "nationality",
+            "printedName": "nationality",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO11nationalityyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO11nationalityyA2CmF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dateOfBirth",
+            "printedName": "dateOfBirth",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO11dateOfBirthyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO11dateOfBirthyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "sex",
+            "printedName": "sex",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO3sexyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO3sexyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "dateOfExpiration",
+            "printedName": "dateOfExpiration",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO16dateOfExpirationyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO16dateOfExpirationyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "personalNumber",
+            "printedName": "personalNumber",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO14personalNumberyA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO14personalNumberyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "checkDigit",
+            "printedName": "checkDigit",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.MRZFieldType.Type) -> BerbixAdvanced.MRZFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.MRZFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZFieldType",
+                        "printedName": "BerbixAdvanced.MRZFieldType",
+                        "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO10checkDigityA2CmF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO10checkDigityA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MRZFieldType",
+                "printedName": "BerbixAdvanced.MRZFieldType",
+                "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MRZFieldType",
+                "printedName": "BerbixAdvanced.MRZFieldType",
+                "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO2eeoiySbAC_ACtFZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO9hashValueSivp",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO9hashValueSivp",
+            "moduleName": "BerbixAdvanced",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced12MRZFieldTypeO9hashValueSivg",
+                "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO9hashValueSivg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced12MRZFieldTypeO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO4hash4intoys6HasherVz_tF",
+            "moduleName": "BerbixAdvanced",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14BerbixAdvanced12MRZFieldTypeO",
+        "mangledName": "$s14BerbixAdvanced12MRZFieldTypeO",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZField",
+        "printedName": "MRZField",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "type",
+            "printedName": "type",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZFieldType",
+                "printedName": "BerbixAdvanced.MRZFieldType",
+                "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced8MRZFieldV4typeAA0C4TypeOvp",
+            "mangledName": "$s14BerbixAdvanced8MRZFieldV4typeAA0C4TypeOvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZFieldType",
+                    "printedName": "BerbixAdvanced.MRZFieldType",
+                    "usr": "s:14BerbixAdvanced12MRZFieldTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced8MRZFieldV4typeAA0C4TypeOvg",
+                "mangledName": "$s14BerbixAdvanced8MRZFieldV4typeAA0C4TypeOvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "value",
+            "printedName": "value",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced8MRZFieldV5valueSSvp",
+            "mangledName": "$s14BerbixAdvanced8MRZFieldV5valueSSvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced8MRZFieldV5valueSSvg",
+                "mangledName": "$s14BerbixAdvanced8MRZFieldV5valueSSvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced8MRZFieldV5valueSSvs",
+                "mangledName": "$s14BerbixAdvanced8MRZFieldV5valueSSvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced8MRZFieldV5valueSSvM",
+                "mangledName": "$s14BerbixAdvanced8MRZFieldV5valueSSvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "parsedDateValue",
+            "printedName": "parsedDateValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Date?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced8MRZFieldV15parsedDateValue10Foundation0E0VSgvp",
+            "mangledName": "$s14BerbixAdvanced8MRZFieldV15parsedDateValue10Foundation0E0VSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced8MRZFieldV15parsedDateValue10Foundation0E0VSgvg",
+                "mangledName": "$s14BerbixAdvanced8MRZFieldV15parsedDateValue10Foundation0E0VSgvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14BerbixAdvanced8MRZFieldV",
+        "mangledName": "$s14BerbixAdvanced8MRZFieldV",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZLine",
+        "printedName": "MRZLine",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "fields",
+            "printedName": "fields",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[BerbixAdvanced.MRZField]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZField",
+                    "printedName": "BerbixAdvanced.MRZField",
+                    "usr": "s:14BerbixAdvanced8MRZFieldV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvp",
+            "mangledName": "$s14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[BerbixAdvanced.MRZField]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZField",
+                        "printedName": "BerbixAdvanced.MRZField",
+                        "usr": "s:14BerbixAdvanced8MRZFieldV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvg",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[BerbixAdvanced.MRZField]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZField",
+                        "printedName": "BerbixAdvanced.MRZField",
+                        "usr": "s:14BerbixAdvanced8MRZFieldV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvs",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvM",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV6fieldsSayAA8MRZFieldVGvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rawLine",
+            "printedName": "rawLine",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced7MRZLineV7rawLineSSvp",
+            "mangledName": "$s14BerbixAdvanced7MRZLineV7rawLineSSvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV7rawLineSSvg",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV7rawLineSSvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV7rawLineSSvs",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV7rawLineSSvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV7rawLineSSvM",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV7rawLineSSvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "debugDescription",
+            "printedName": "debugDescription",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced7MRZLineV16debugDescriptionSSvp",
+            "mangledName": "$s14BerbixAdvanced7MRZLineV16debugDescriptionSSvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced7MRZLineV16debugDescriptionSSvg",
+                "mangledName": "$s14BerbixAdvanced7MRZLineV16debugDescriptionSSvg",
+                "moduleName": "BerbixAdvanced",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14BerbixAdvanced7MRZLineV",
+        "mangledName": "$s14BerbixAdvanced7MRZLineV",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CameraMath",
+        "printedName": "CameraMath",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "calculateMinimumFocusDistance",
+            "printedName": "calculateMinimumFocusDistance(fieldOfView:minimumDocumentSize:previewFillPercentage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced10CameraMathC29calculateMinimumFocusDistance11fieldOfView19minimumDocumentSize21previewFillPercentageS2f_S2ftFZ",
+            "mangledName": "$s14BerbixAdvanced10CameraMathC29calculateMinimumFocusDistance11fieldOfView19minimumDocumentSize21previewFillPercentageS2f_S2ftFZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "degreesToRadians",
+            "printedName": "degreesToRadians(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced10CameraMathC16degreesToRadiansyS2fFZ",
+            "mangledName": "$s14BerbixAdvanced10CameraMathC16degreesToRadiansyS2fFZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "radiansToDegrees",
+            "printedName": "radiansToDegrees(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced10CameraMathC16radiansToDegreesyS2fFZ",
+            "mangledName": "$s14BerbixAdvanced10CameraMathC16radiansToDegreesyS2fFZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14BerbixAdvanced10CameraMathC",
+        "mangledName": "$s14BerbixAdvanced10CameraMathC",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CameraPreview",
+        "printedName": "CameraPreview",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "layerClass",
+            "printedName": "layerClass",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ExistentialMetatype",
+                "printedName": "AnyObject.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview(cpy)layerClass",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC10layerClassyXlXpvpZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "overriding": true,
+            "objc_name": "layerClass",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview(cm)layerClass",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC10layerClassyXlXpvgZ",
+                "moduleName": "BerbixAdvanced",
+                "static": true,
+                "overriding": true,
+                "objc_name": "layerClass",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "willMove",
+            "printedName": "willMove(toWindow:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindow?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindow",
+                    "printedName": "UIKit.UIWindow",
+                    "usr": "c:objc(cs)UIWindow"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview(im)willMoveToWindow:",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC8willMove8toWindowySo8UIWindowCSg_tF",
+            "moduleName": "BerbixAdvanced",
+            "overriding": true,
+            "objc_name": "willMoveToWindow:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "videoPreviewLayer",
+            "printedName": "videoPreviewLayer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AVCaptureVideoPreviewLayer",
+                "printedName": "AVFoundation.AVCaptureVideoPreviewLayer",
+                "usr": "c:objc(cs)AVCaptureVideoPreviewLayer"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC05videoD5LayerSo014AVCaptureVideodF0Cvp",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC05videoD5LayerSo014AVCaptureVideodF0Cvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AVCaptureVideoPreviewLayer",
+                    "printedName": "AVFoundation.AVCaptureVideoPreviewLayer",
+                    "usr": "c:objc(cs)AVCaptureVideoPreviewLayer"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC05videoD5LayerSo014AVCaptureVideodF0Cvg",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC05videoD5LayerSo014AVCaptureVideodF0Cvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "session",
+            "printedName": "session",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AVFoundation.AVCaptureSession?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AVCaptureSession",
+                    "printedName": "AVFoundation.AVCaptureSession",
+                    "usr": "c:objc(cs)AVCaptureSession"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVCaptureSession?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVCaptureSession",
+                        "printedName": "AVFoundation.AVCaptureSession",
+                        "usr": "c:objc(cs)AVCaptureSession"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVCaptureSession?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVCaptureSession",
+                        "printedName": "AVFoundation.AVCaptureSession",
+                        "usr": "c:objc(cs)AVCaptureSession"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvs",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC7sessionSo16AVCaptureSessionCSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cameraSession",
+            "printedName": "cameraSession",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BerbixAdvanced.CameraSession?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraSession",
+                    "printedName": "BerbixAdvanced.CameraSession",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BerbixAdvanced.CameraSession?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraSession",
+                        "printedName": "BerbixAdvanced.CameraSession",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BerbixAdvanced.CameraSession?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraSession",
+                        "printedName": "BerbixAdvanced.CameraSession",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraPreviewC13cameraSessionAA0cF0CSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "convertRectangleObservation",
+            "printedName": "convertRectangleObservation(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VNRectangleObservation",
+                "printedName": "Vision.VNRectangleObservation",
+                "usr": "c:objc(cs)VNRectangleObservation"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC27convertRectangleObservationySo6CGRectVSo011VNRectangleG0CF",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC27convertRectangleObservationySo6CGRectVSo011VNRectangleG0CF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convertMetadata",
+            "printedName": "convertMetadata(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AVMetadataMachineReadableCodeObject",
+                "printedName": "AVFoundation.AVMetadataMachineReadableCodeObject",
+                "usr": "c:objc(cs)AVMetadataMachineReadableCodeObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC15convertMetadataySo6CGRectVSo35AVMetadataMachineReadableCodeObjectCF",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC15convertMetadataySo6CGRectVSo35AVMetadataMachineReadableCodeObjectCF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convertFaceObservation",
+            "printedName": "convertFaceObservation(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VNFaceObservation",
+                "printedName": "Vision.VNFaceObservation",
+                "usr": "c:objc(cs)VNFaceObservation"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC22convertFaceObservationySo6CGRectVSo06VNFaceG0CF",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC22convertFaceObservationySo6CGRectVSo06VNFaceG0CF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convertRect",
+            "printedName": "convertRect(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC11convertRectySo6CGRectVAFF",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC11convertRectySo6CGRectVAFF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convertMRZRect",
+            "printedName": "convertMRZRect(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraPreviewC14convertMRZRectySo6CGRectVAFF",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC14convertMRZRectySo6CGRectVAFF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CameraPreview",
+                "printedName": "BerbixAdvanced.CameraPreview",
+                "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview(im)initWithFrame:",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "BerbixAdvanced",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BerbixAdvanced.CameraPreview?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraPreview",
+                    "printedName": "BerbixAdvanced.CameraPreview",
+                    "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview(im)initWithCoder:",
+            "mangledName": "$s14BerbixAdvanced13CameraPreviewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "BerbixAdvanced",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview",
+        "mangledName": "$s14BerbixAdvanced13CameraPreviewC",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BerbixAdvanced"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceDirection",
+        "printedName": "FaceDirection",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "direct",
+            "printedName": "direct",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.FaceDirection.Type) -> BerbixAdvanced.FaceDirection",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDirection",
+                    "printedName": "BerbixAdvanced.FaceDirection",
+                    "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.FaceDirection.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDirection",
+                        "printedName": "BerbixAdvanced.FaceDirection",
+                        "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO6directyA2CmF",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO6directyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "left",
+            "printedName": "left",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.FaceDirection.Type) -> BerbixAdvanced.FaceDirection",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDirection",
+                    "printedName": "BerbixAdvanced.FaceDirection",
+                    "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.FaceDirection.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDirection",
+                        "printedName": "BerbixAdvanced.FaceDirection",
+                        "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO4leftyA2CmF",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO4leftyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "right",
+            "printedName": "right",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.FaceDirection.Type) -> BerbixAdvanced.FaceDirection",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDirection",
+                    "printedName": "BerbixAdvanced.FaceDirection",
+                    "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.FaceDirection.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDirection",
+                        "printedName": "BerbixAdvanced.FaceDirection",
+                        "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO5rightyA2CmF",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO5rightyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Var",
+            "name": "unknown",
+            "printedName": "unknown",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BerbixAdvanced.FaceDirection.Type) -> BerbixAdvanced.FaceDirection",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDirection",
+                    "printedName": "BerbixAdvanced.FaceDirection",
+                    "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BerbixAdvanced.FaceDirection.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDirection",
+                        "printedName": "BerbixAdvanced.FaceDirection",
+                        "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO7unknownyA2CmF",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO7unknownyA2CmF",
+            "moduleName": "BerbixAdvanced"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BerbixAdvanced.FaceDirection?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDirection",
+                    "printedName": "BerbixAdvanced.FaceDirection",
+                    "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO8rawValueACSgSS_tcfc",
+            "moduleName": "BerbixAdvanced",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13FaceDirectionO8rawValueSSvp",
+            "mangledName": "$s14BerbixAdvanced13FaceDirectionO8rawValueSSvp",
+            "moduleName": "BerbixAdvanced",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13FaceDirectionO8rawValueSSvg",
+                "mangledName": "$s14BerbixAdvanced13FaceDirectionO8rawValueSSvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14BerbixAdvanced13FaceDirectionO",
+        "mangledName": "$s14BerbixAdvanced13FaceDirectionO",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CameraSession",
+        "printedName": "CameraSession",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CameraSession",
+                "printedName": "BerbixAdvanced.CameraSession",
+                "usr": "s:14BerbixAdvanced13CameraSessionC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14BerbixAdvanced13CameraSessionCACycfc",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionCACycfc",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "warmUp",
+            "printedName": "warmUp()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraSessionC6warmUpyyFZ",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC6warmUpyyFZ",
+            "moduleName": "BerbixAdvanced",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "SessionError",
+            "printedName": "SessionError",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "configurationFailed",
+                "printedName": "configurationFailed",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.SessionError.Type) -> BerbixAdvanced.CameraSession.SessionError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SessionError",
+                        "printedName": "BerbixAdvanced.CameraSession.SessionError",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.SessionError.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SessionError",
+                            "printedName": "BerbixAdvanced.CameraSession.SessionError",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO19configurationFailedyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO19configurationFailedyA2EmF",
+                "moduleName": "BerbixAdvanced"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionError",
+                    "printedName": "BerbixAdvanced.CameraSession.SessionError",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SessionError",
+                    "printedName": "BerbixAdvanced.CameraSession.SessionError",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO2eeoiySbAE_AEtFZ",
+                "moduleName": "BerbixAdvanced",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO9hashValueSivp",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO9hashValueSivp",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO9hashValueSivg",
+                    "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO9hashValueSivg",
+                    "moduleName": "BerbixAdvanced",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO4hash4intoys6HasherVz_tF",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:14BerbixAdvanced13CameraSessionC0D5ErrorO",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC0D5ErrorO",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Error",
+                "printedName": "Error",
+                "usr": "s:s5ErrorP",
+                "mangledName": "$ss5ErrorP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "Mode",
+            "printedName": "Mode",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "application",
+                "printedName": "application",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.Mode.Type) -> BerbixAdvanced.CameraSession.Mode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Mode",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Mode",
+                            "printedName": "BerbixAdvanced.CameraSession.Mode",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO11applicationyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO11applicationyA2EmF",
+                "moduleName": "BerbixAdvanced",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "selfie",
+                "printedName": "selfie",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.Mode.Type) -> BerbixAdvanced.CameraSession.Mode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Mode",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Mode",
+                            "printedName": "BerbixAdvanced.CameraSession.Mode",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO6selfieyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO6selfieyA2EmF",
+                "moduleName": "BerbixAdvanced",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "document",
+                "printedName": "document",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.Mode.Type) -> BerbixAdvanced.CameraSession.Mode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Mode",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Mode",
+                            "printedName": "BerbixAdvanced.CameraSession.Mode",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO8documentyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO8documentyA2EmF",
+                "moduleName": "BerbixAdvanced",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "barcodeOnly",
+                "printedName": "barcodeOnly",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.Mode.Type) -> BerbixAdvanced.CameraSession.Mode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Mode",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Mode",
+                            "printedName": "BerbixAdvanced.CameraSession.Mode",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO11barcodeOnlyyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO11barcodeOnlyyA2EmF",
+                "moduleName": "BerbixAdvanced",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "machineReadableZoneOnly",
+                "printedName": "machineReadableZoneOnly",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BerbixAdvanced.CameraSession.Mode.Type) -> BerbixAdvanced.CameraSession.Mode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Mode",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode",
+                        "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BerbixAdvanced.CameraSession.Mode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Mode",
+                            "printedName": "BerbixAdvanced.CameraSession.Mode",
+                            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO23machineReadableZoneOnlyyA2EmF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO23machineReadableZoneOnlyyA2EmF",
+                "moduleName": "BerbixAdvanced",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Mode",
+                    "printedName": "BerbixAdvanced.CameraSession.Mode",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Mode",
+                    "printedName": "BerbixAdvanced.CameraSession.Mode",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO2eeoiySbAE_AEtFZ",
+                "moduleName": "BerbixAdvanced",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO9hashValueSivp",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO9hashValueSivp",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO9hashValueSivg",
+                    "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO9hashValueSivg",
+                    "moduleName": "BerbixAdvanced",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO4hash4intoys6HasherVz_tF",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC4ModeO",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "currentMode",
+            "printedName": "currentMode",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Mode",
+                "printedName": "BerbixAdvanced.CameraSession.Mode",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC11currentModeAC0F0Ovp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC11currentModeAC0F0Ovp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Mode",
+                    "printedName": "BerbixAdvanced.CameraSession.Mode",
+                    "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC11currentModeAC0F0Ovg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC11currentModeAC0F0Ovg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isAutoCaptureEnabled",
+            "printedName": "isAutoCaptureEnabled",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC20isAutoCaptureEnabledSbvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC20isAutoCaptureEnabledSbvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC20isAutoCaptureEnabledSbvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC20isAutoCaptureEnabledSbvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isAutoCaptureCompleted",
+            "printedName": "isAutoCaptureCompleted",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC22isAutoCaptureCompletedSbvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC22isAutoCaptureCompletedSbvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC22isAutoCaptureCompletedSbvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC22isAutoCaptureCompletedSbvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sessionView",
+            "printedName": "sessionView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CameraPreview",
+                "printedName": "BerbixAdvanced.CameraPreview",
+                "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC11sessionViewAA0C7PreviewCvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC11sessionViewAA0C7PreviewCvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraPreview",
+                    "printedName": "BerbixAdvanced.CameraPreview",
+                    "usr": "c:@M@BerbixAdvanced@objc(cs)CameraPreview"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC11sessionViewAA0C7PreviewCvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC11sessionViewAA0C7PreviewCvg",
+                "moduleName": "BerbixAdvanced",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onBarcodeDetected",
+            "printedName": "onBarcodeDetected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((CoreFoundation.CGRect, Swift.String) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(CoreFoundation.CGRect, Swift.String) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(CoreFoundation.CGRect, Swift.String)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGRect",
+                            "printedName": "CoreFoundation.CGRect",
+                            "usr": "c:@S@CGRect"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, Swift.String) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, Swift.String) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, Swift.String)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, Swift.String) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, Swift.String) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, Swift.String)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC17onBarcodeDetectedySo6CGRectV_SStcSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onMachineReadableZoneDetected",
+            "printedName": "onMachineReadableZoneDetected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine])",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGRect",
+                            "printedName": "CoreFoundation.CGRect",
+                            "usr": "c:@S@CGRect"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Array",
+                            "printedName": "[BerbixAdvanced.MRZLine]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "MRZLine",
+                                "printedName": "BerbixAdvanced.MRZLine",
+                                "usr": "s:14BerbixAdvanced7MRZLineV"
+                              }
+                            ],
+                            "usr": "s:Sa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Array",
+                                "printedName": "[BerbixAdvanced.MRZLine]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "MRZLine",
+                                    "printedName": "BerbixAdvanced.MRZLine",
+                                    "usr": "s:14BerbixAdvanced7MRZLineV"
+                                  }
+                                ],
+                                "usr": "s:Sa"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, [BerbixAdvanced.MRZLine])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Array",
+                                "printedName": "[BerbixAdvanced.MRZLine]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "MRZLine",
+                                    "printedName": "BerbixAdvanced.MRZLine",
+                                    "usr": "s:14BerbixAdvanced7MRZLineV"
+                                  }
+                                ],
+                                "usr": "s:Sa"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC29onMachineReadableZoneDetectedySo6CGRectV_SayAA7MRZLineVGtcSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onFaceDetected",
+            "printedName": "onFaceDetected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGRect",
+                            "printedName": "CoreFoundation.CGRect",
+                            "usr": "c:@S@CGRect"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "FaceDirection",
+                            "printedName": "BerbixAdvanced.FaceDirection",
+                            "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "FaceDirection",
+                                "printedName": "BerbixAdvanced.FaceDirection",
+                                "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(CoreFoundation.CGRect, BerbixAdvanced.FaceDirection)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "CGRect",
+                                "printedName": "CoreFoundation.CGRect",
+                                "usr": "c:@S@CGRect"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "FaceDirection",
+                                "printedName": "BerbixAdvanced.FaceDirection",
+                                "usr": "s:14BerbixAdvanced13FaceDirectionO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC14onFaceDetectedySo6CGRectV_AA0F9DirectionOtcSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onDocumentDetected",
+            "printedName": "onDocumentDetected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((CoreFoundation.CGRect) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(CoreFoundation.CGRect) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CGRect",
+                        "printedName": "CoreFoundation.CGRect",
+                        "usr": "c:@S@CGRect"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGRect",
+                            "printedName": "CoreFoundation.CGRect",
+                            "usr": "c:@S@CGRect"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((CoreFoundation.CGRect) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(CoreFoundation.CGRect) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGRect",
+                            "printedName": "CoreFoundation.CGRect",
+                            "usr": "c:@S@CGRect"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC18onDocumentDetectedySo6CGRectVcSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onPhotoTaken",
+            "printedName": "onPhotoTaken",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((AVFoundation.AVCapturePhoto) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(AVFoundation.AVCapturePhoto) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVCapturePhoto",
+                        "printedName": "AVFoundation.AVCapturePhoto",
+                        "usr": "c:objc(cs)AVCapturePhoto"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvp",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvp",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((AVFoundation.AVCapturePhoto) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(AVFoundation.AVCapturePhoto) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "AVCapturePhoto",
+                            "printedName": "AVFoundation.AVCapturePhoto",
+                            "usr": "c:objc(cs)AVCapturePhoto"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvg",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvg",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((AVFoundation.AVCapturePhoto) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(AVFoundation.AVCapturePhoto) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "AVCapturePhoto",
+                            "printedName": "AVFoundation.AVCapturePhoto",
+                            "usr": "c:objc(cs)AVCapturePhoto"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvs",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvs",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvM",
+                "mangledName": "$s14BerbixAdvanced13CameraSessionC12onPhotoTakenySo09AVCaptureF0CcSgvM",
+                "moduleName": "BerbixAdvanced",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "configureFor",
+            "printedName": "configureFor(mode:enableAutoCapture:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Mode",
+                "printedName": "BerbixAdvanced.CameraSession.Mode",
+                "usr": "s:14BerbixAdvanced13CameraSessionC4ModeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraSessionC12configureFor4mode17enableAutoCaptureyAC4ModeO_SbtKF",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC12configureFor4mode17enableAutoCaptureyAC4ModeO_SbtKF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraSessionC5startyyF",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC5startyyF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraSessionC4stopyyF",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC4stopyyF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "capturePhoto",
+            "printedName": "capturePhoto()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14BerbixAdvanced13CameraSessionC12capturePhotoyyF",
+            "mangledName": "$s14BerbixAdvanced13CameraSessionC12capturePhotoyyF",
+            "moduleName": "BerbixAdvanced",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14BerbixAdvanced13CameraSessionC",
+        "mangledName": "$s14BerbixAdvanced13CameraSessionC",
+        "moduleName": "BerbixAdvanced",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Processors\/SelfieSessionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 325,
+      "length": 27,
+      "value": "\"com.berbix.session.selfie\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/StringTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 159,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/StringTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 412,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/StringTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Processors\/DocumentSessionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 29,
+      "value": "\"com.berbix.session.document\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/MachineReadableZone.swift",
+      "kind": "IntegerLiteral",
+      "offset": 839,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/MachineReadableZone.swift",
+      "kind": "IntegerLiteral",
+      "offset": 872,
+      "length": 2,
+      "value": "36"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/MachineReadableZone.swift",
+      "kind": "IntegerLiteral",
+      "offset": 907,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/MachineReadableZone.swift",
+      "kind": "StringLiteral",
+      "offset": 1356,
+      "length": 8,
+      "value": "\"YYMMdd\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/MachineReadable\/MachineReadableZone.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5307,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Processors\/BarcodeSessionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 28,
+      "value": "\"com.berbix.session.barcode\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Processors\/MRZSessionProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 315,
+      "length": 24,
+      "value": "\"com.berbix.session.mrz\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/SelfieSupport\/ModelManager.swift",
+      "kind": "StringLiteral",
+      "offset": 204,
+      "length": 89,
+      "value": "\"https:\/\/storage.googleapis.com\/berbix-production-public-assets\/models\/phase1_v2.mlmodel\""
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Camera\/CameraSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3485,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Camera\/CameraSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3535,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sam\/code\/ios-toolkit\/BerbixAdvanced\/Camera\/CameraSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8586,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

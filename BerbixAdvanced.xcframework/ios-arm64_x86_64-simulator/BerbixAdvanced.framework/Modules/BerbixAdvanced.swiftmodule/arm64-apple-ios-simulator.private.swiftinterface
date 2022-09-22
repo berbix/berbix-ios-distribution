@@ -1,0 +1,162 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BerbixAdvanced
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+@_exported import BerbixAdvanced
+import CoreML
+import Foundation
+import Swift
+import UIKit
+import Vision
+import _Concurrency
+import _StringProcessing
+public enum MRZFieldType {
+  case documentClass
+  case documentType
+  case issuingCountry
+  case surname
+  case givenName
+  case documentNumber
+  case nationality
+  case dateOfBirth
+  case sex
+  case dateOfExpiration
+  case personalNumber
+  case checkDigit
+  public static func == (a: BerbixAdvanced.MRZFieldType, b: BerbixAdvanced.MRZFieldType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct MRZField {
+  public let type: BerbixAdvanced.MRZFieldType
+  public var value: Swift.String
+  public var parsedDateValue: Foundation.Date? {
+    get
+  }
+}
+public struct MRZLine {
+  public var fields: [BerbixAdvanced.MRZField]
+  public var rawLine: Swift.String
+}
+extension BerbixAdvanced.MRZLine : Swift.CustomDebugStringConvertible {
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class CameraMath {
+  public static func calculateMinimumFocusDistance(fieldOfView: Swift.Float, minimumDocumentSize: Swift.Float, previewFillPercentage: Swift.Float) -> Swift.Float
+  public static func degreesToRadians(_ degrees: Swift.Float) -> Swift.Float
+  public static func radiansToDegrees(_ radians: Swift.Float) -> Swift.Float
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class CameraPreview : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public class var layerClass: Swift.AnyClass {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func willMove(toWindow newWindow: UIKit.UIWindow?)
+  @_Concurrency.MainActor(unsafe) public var videoPreviewLayer: AVFoundation.AVCaptureVideoPreviewLayer {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public var session: AVFoundation.AVCaptureSession? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var cameraSession: BerbixAdvanced.CameraSession?
+  @_Concurrency.MainActor(unsafe) public func convertRectangleObservation(_ observation: Vision.VNRectangleObservation) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) public func convertMetadata(_ metadata: AVFoundation.AVMetadataMachineReadableCodeObject) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) public func convertFaceObservation(_ observation: Vision.VNFaceObservation) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) public func convertRect(_ rect: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) public func convertMRZRect(_ rect: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public enum FaceDirection : Swift.String {
+  case direct
+  case left
+  case right
+  case unknown
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public typealias BarcodeDetectedBlock = (CoreFoundation.CGRect, Swift.String) -> Swift.Void
+public typealias MachineReadableZoneDetectedBlock = (CoreFoundation.CGRect, [BerbixAdvanced.MRZLine]) -> Swift.Void
+public typealias FaceDetectedBlock = (CoreFoundation.CGRect, BerbixAdvanced.FaceDirection) -> Swift.Void
+public typealias DocumentDetectedBlock = (CoreFoundation.CGRect) -> Swift.Void
+public typealias PhotoTakenBlock = (AVFoundation.AVCapturePhoto) -> Swift.Void
+public class CameraSession {
+  public init()
+  public static func warmUp()
+  public enum SessionError : Swift.Error {
+    case configurationFailed
+    public static func == (a: BerbixAdvanced.CameraSession.SessionError, b: BerbixAdvanced.CameraSession.SessionError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum Mode {
+    case application
+    case selfie
+    case document
+    case barcodeOnly
+    case machineReadableZoneOnly
+    public static func == (a: BerbixAdvanced.CameraSession.Mode, b: BerbixAdvanced.CameraSession.Mode) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public var currentMode: BerbixAdvanced.CameraSession.Mode {
+    get
+  }
+  public var isAutoCaptureEnabled: Swift.Bool {
+    get
+  }
+  public var isAutoCaptureCompleted: Swift.Bool {
+    get
+  }
+  public var sessionView: BerbixAdvanced.CameraPreview {
+    get
+  }
+  public var onBarcodeDetected: BerbixAdvanced.BarcodeDetectedBlock? {
+    get
+    set
+  }
+  public var onMachineReadableZoneDetected: BerbixAdvanced.MachineReadableZoneDetectedBlock? {
+    get
+    set
+  }
+  public var onFaceDetected: BerbixAdvanced.FaceDetectedBlock? {
+    get
+    set
+  }
+  public var onDocumentDetected: BerbixAdvanced.DocumentDetectedBlock? {
+    get
+    set
+  }
+  public var onPhotoTaken: BerbixAdvanced.PhotoTakenBlock? {
+    get
+    set
+  }
+  public func configureFor(mode: BerbixAdvanced.CameraSession.Mode, enableAutoCapture: Swift.Bool = false) throws
+  public func start()
+  public func stop()
+  public func capturePhoto()
+  @objc deinit
+}
+extension BerbixAdvanced.MRZFieldType : Swift.Equatable {}
+extension BerbixAdvanced.MRZFieldType : Swift.Hashable {}
+extension BerbixAdvanced.FaceDirection : Swift.Equatable {}
+extension BerbixAdvanced.FaceDirection : Swift.Hashable {}
+extension BerbixAdvanced.FaceDirection : Swift.RawRepresentable {}
+extension BerbixAdvanced.CameraSession.SessionError : Swift.Equatable {}
+extension BerbixAdvanced.CameraSession.SessionError : Swift.Hashable {}
+extension BerbixAdvanced.CameraSession.Mode : Swift.Equatable {}
+extension BerbixAdvanced.CameraSession.Mode : Swift.Hashable {}
