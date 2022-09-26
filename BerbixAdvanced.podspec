@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BerbixAdvanced'
-  s.version          = '0.2.1-rc2'
+  s.version          = '0.2.1'
   s.summary          = 'A small suite of utilities to create your own Berbix verification flow.'
   s.description      = <<-DESC
     This set of components is intended to provide a bridge between our complete SDK integration and rolling your own solution. The power of these components lies in their ease of use and the extreme degree of customization they allow for. While these components alone aren’t enough to complete a transaction, they will ensure the assets your customers created are of the highest quality possible, before sharing them with Berbix.
